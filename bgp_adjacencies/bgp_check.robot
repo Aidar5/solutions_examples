@@ -4,7 +4,7 @@
 *** Settings ***
 Library        ats.robot.pyATSRobot
 
-*** TestCases ***
+*** Test Cases ***
 
 Initialize
     # select the testbed to use
